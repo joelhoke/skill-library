@@ -1,0 +1,21 @@
+# Swift and Xcode output
+.build/
+.swiftpm/
+DerivedData/
+xcuserdata/
+*.xcuserstate
+*.dSYM/
+*.app/
+
+# Local library data and personal recovery material
+SeedLibrary/
+RecoveryPackage/
+
+# Local configuration and generated archives
+.DS_Store
+.env
+.env.*
+*.log
+*.zip
+__pycache__/
+*.pyc
